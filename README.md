@@ -59,4 +59,4 @@ Freshman students juggle assignments, projects, and personal tasks with no centr
 - [ ] Email reminders for due dates
 
 ---
-Built by [Your Name] | CS Freshman Portfolio Project
+Built by Kawin Somu | CS Student
